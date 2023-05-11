@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/cpustat := gcc   -o /home/reallinux/git/linux/samples/bpf/cpustat /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/cpustat_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

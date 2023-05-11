@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/test_overhead := gcc   -o /home/reallinux/git/linux/samples/bpf/test_overhead /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/test_overhead_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf -lrt

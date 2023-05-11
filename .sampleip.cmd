@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/sampleip := gcc   -o /home/reallinux/git/linux/samples/bpf/sampleip /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/sampleip_user.o /home/reallinux/git/linux/samples/bpf/../../tools/testing/selftests/bpf/trace_helpers.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

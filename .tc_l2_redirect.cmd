@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/tc_l2_redirect := gcc   -o /home/reallinux/git/linux/samples/bpf/tc_l2_redirect /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/tc_l2_redirect_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

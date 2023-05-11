@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/xdp_redirect_cpu := gcc   -o /home/reallinux/git/linux/samples/bpf/xdp_redirect_cpu /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/xdp_redirect_cpu_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

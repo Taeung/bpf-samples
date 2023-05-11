@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/xdp_rxq_info := gcc   -o /home/reallinux/git/linux/samples/bpf/xdp_rxq_info /home/reallinux/git/linux/samples/bpf/xdp_rxq_info_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

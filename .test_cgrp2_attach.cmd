@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/test_cgrp2_attach := gcc   -o /home/reallinux/git/linux/samples/bpf/test_cgrp2_attach /home/reallinux/git/linux/samples/bpf/test_cgrp2_attach.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

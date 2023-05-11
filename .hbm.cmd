@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/hbm := gcc   -o /home/reallinux/git/linux/samples/bpf/hbm /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/hbm.o /home/reallinux/git/linux/samples/bpf/../../tools/testing/selftests/bpf/cgroup_helpers.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

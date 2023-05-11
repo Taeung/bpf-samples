@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/map_perf_test := gcc   -o /home/reallinux/git/linux/samples/bpf/map_perf_test /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/map_perf_test_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf -lrt

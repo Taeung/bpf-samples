@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/syscall_tp := gcc   -o /home/reallinux/git/linux/samples/bpf/syscall_tp /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/syscall_tp_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

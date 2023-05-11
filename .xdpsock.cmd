@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/xdpsock := gcc   -o /home/reallinux/git/linux/samples/bpf/xdpsock /home/reallinux/git/linux/samples/bpf/xdpsock_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf -pthread

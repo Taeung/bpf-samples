@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/test_cgrp2_sock := gcc   -o /home/reallinux/git/linux/samples/bpf/test_cgrp2_sock /home/reallinux/git/linux/samples/bpf/test_cgrp2_sock.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

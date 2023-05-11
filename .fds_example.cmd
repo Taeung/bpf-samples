@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/fds_example := gcc   -o /home/reallinux/git/linux/samples/bpf/fds_example /home/reallinux/git/linux/samples/bpf/fds_example.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

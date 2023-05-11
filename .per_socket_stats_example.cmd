@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/per_socket_stats_example := gcc   -o /home/reallinux/git/linux/samples/bpf/per_socket_stats_example /home/reallinux/git/linux/samples/bpf/cookie_uid_helper_example.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/xdp_adjust_tail := gcc   -o /home/reallinux/git/linux/samples/bpf/xdp_adjust_tail /home/reallinux/git/linux/samples/bpf/xdp_adjust_tail_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/sockex1 := gcc   -o /home/reallinux/git/linux/samples/bpf/sockex1 /home/reallinux/git/linux/samples/bpf/sockex1_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

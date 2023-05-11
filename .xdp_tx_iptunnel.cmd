@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/xdp_tx_iptunnel := gcc   -o /home/reallinux/git/linux/samples/bpf/xdp_tx_iptunnel /home/reallinux/git/linux/samples/bpf/xdp_tx_iptunnel_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

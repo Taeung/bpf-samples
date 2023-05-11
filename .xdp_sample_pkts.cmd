@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/xdp_sample_pkts := gcc   -o /home/reallinux/git/linux/samples/bpf/xdp_sample_pkts /home/reallinux/git/linux/samples/bpf/xdp_sample_pkts_user.o /home/reallinux/git/linux/samples/bpf/../../tools/testing/selftests/bpf/trace_helpers.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 

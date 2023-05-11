@@ -1,0 +1,1 @@
+cmd_/home/reallinux/git/linux/samples/bpf/tracex1 := gcc   -o /home/reallinux/git/linux/samples/bpf/tracex1 /home/reallinux/git/linux/samples/bpf/bpf_load.o /home/reallinux/git/linux/samples/bpf/tracex1_user.o   /home/reallinux/git/linux/samples/bpf/../../tools/lib/bpf/libbpf.a -lelf 
