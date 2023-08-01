@@ -48,7 +48,7 @@ struct bpf_map_def SEC("maps") lat_map = {
 	.max_entries = SLOTS,
 };
 
-SEC("kprobe/blk_account_io_completion")
+SEC("kprobe/blk_update_request")
 int bpf_prog2(struct pt_regs *ctx)
 {
 	long rq = PT_REGS_PARM1(ctx);
